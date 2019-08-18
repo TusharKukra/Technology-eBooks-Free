@@ -2,4 +2,4 @@
 
 Here you can find premium eBooks for Free
 
-You can fork them.
+You can fork the repository.
